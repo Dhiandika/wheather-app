@@ -1,0 +1,7 @@
+{
+  "name": "AeroWeather Global Command Center",
+  "description": "A high-fidelity, futuristic weather and astronomical dashboard featuring real-time global monitoring, regional exploration, and AI-powered climate insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
